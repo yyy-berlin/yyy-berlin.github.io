@@ -1,0 +1,57 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Projektion
+# lässt sich version entfernen? Wozu ist folders da?
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+#  - title: Übersicht
+#    output: web, pdf
+#    folderitems:
+#    - title: Übersicht
+#      url: /projektion_landing.html
+#      output: web
+
+
+  - title: Projektionssoftware
+    output: web, pdf
+    folderitems:
+    - title: Softwareauswahl
+      url: /projektion_softwareauswahl-projektion.html
+      output: web, pdf
+    - title: MapMap
+      url: /projektion_mapmap.html
+      output: web, pdf
+    - title: Madmapper
+      url: /projektion_madmapper.html
+      output: web, pdf
+
+  - title: Bilder
+    output: web, pdf
+    folderitems:
+    - title: Bilder Übersicht
+      url: /projektion_bilder-uebersicht.html
+      output: web, pdf
+
+  - title: Videos
+    output: web, pdf
+    folderitems:
+    - title: Videos Übersicht
+      url: /projektion_videos-uebersicht.html
+      output: web, pdf

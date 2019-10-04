@@ -1,0 +1,54 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Youth Exchange 2019
+# lässt sich version entfernen? Wozu ist folders da?
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Background
+    output: web, pdf
+    folderitems:
+    - title: Overview
+      url: /you-exc-19_landing.html
+      output: web
+    - title: Story
+      url: /you-exc-19_story.html
+      output: web
+
+
+  - title: Planning
+    output: web, pdf
+    folderitems:
+    - title: Concept
+      url: /you-exc-19_concept.html
+      output: web, pdf
+
+  - title: Workshops
+    output: web, pdf
+    folderitems:
+    - title: Discussions
+      url: /you-exc-19_discussion.html
+      output: web, pdf
+
+  - title: Results
+    output: web, pdf
+    folderitems:
+    - title: Cue Points
+      url: /you-exc-19_cuepoints.html
+      output: web, pdf

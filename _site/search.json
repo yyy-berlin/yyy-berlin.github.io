@@ -1,0 +1,318 @@
+[
+
+
+
+
+
+
+{
+"title": "yyy Berlin - Medienkollektiv",
+"tags": "getting_started",
+"keywords": "Startseite, Übersicht",
+"url": "index.html",
+"summary": "These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll."
+}
+,
+
+
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news_archive.html",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Projekte - Übersicht",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch",
+"url": "projects_landing.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Projekte - Youth Exchange 2018",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch",
+"url": "projects_youth-exchange-2018.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Projekte - Youth Exchange 2019",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch",
+"url": "projects_youth-exchange-2019.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Bilder Übersicht",
+"tags": "getting_started",
+"keywords": "Wissen, Projektion, Bilder",
+"url": "projektion_bilder-uebersicht.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Projektion - Übersicht",
+"tags": "getting_started",
+"keywords": "Wissen, Projektion",
+"url": "projektion_landing.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Madmapper",
+"tags": "getting_started",
+"keywords": "Wissen, Projektion, Madmapper",
+"url": "projektion_madmapper.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "MapMap",
+"tags": "getting_started",
+"keywords": "Wissen, Projektion, MapMap",
+"url": "projektion_mapmap.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Projektionssoftware",
+"tags": "getting_started",
+"keywords": "Wissen, Projektion",
+"url": "projektion_projektionssoftware.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Softwareauswahl",
+"tags": "getting_started",
+"keywords": "Wissen, Projektion, Softwareauswahl",
+"url": "projektion_softwareauswahl-projektion.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Videos Übersicht",
+"tags": "getting_started",
+"keywords": "Wissen, Projektion, Videos",
+"url": "projektion_videos-uebersicht.html",
+"summary": "How to record and edit video footage"
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "Wissen - Übersicht",
+"tags": "getting_started",
+"keywords": "Wissen, übersicht",
+"url": "uebersicht-wissen_landing.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Lizenzen",
+"tags": "getting_started",
+"keywords": "Wissen, übersicht",
+"url": "uebersicht-wissen_lizenzen.html",
+"summary": "Unterschiedliche Creative-Commons-Lizenzen und Form des zitierens"
+}
+,
+
+
+
+{
+"title": "About the theme&#39;s author",
+"tags": "getting_started",
+"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
+"url": "uebersicht_uebersicht.html",
+"summary": "I have used this theme for projects that I've worked on as a professional technical writer."
+}
+,
+
+
+
+{
+"title": "Concept",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch, Youth Exchange",
+"url": "you-exc-19_concept.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Cue Points",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch, Youth Exchange, Ergebnisse, Results",
+"url": "you-exc-19_cuepoints.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Discussions",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch, Youth Exchange, Work in Progress",
+"url": "you-exc-19_discussion.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Projekte - Youth Exchange 2019",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch, Youth Exchange",
+"url": "you-exc-19_landing.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Story",
+"tags": "getting_started",
+"keywords": "Projekte, Jugendaustausch, Youth Exchange",
+"url": "you-exc-19_story.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "assetscssstyle.css",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]

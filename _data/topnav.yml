@@ -1,0 +1,39 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/yyy-berlin/youth-exchange-2018
+    - title: News
+      url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+#    - title: Jekyll Help
+#      folderitems:
+#        - title: Jekyll Talk
+#          external_url: https://talk.jekyllrb.com
+#        - title: Jekyll documentation
+#          external_url: http://jekyllrb.com/docs/home/
+#        - title: Jekyll on Stack Overflow
+#          external_url: http://stackoverflow.com/questions/tagged/jekyll
+#        - title: Jekyll on my blog
+#          external_url: http://idratherbewriting.com/category-jekyll/
+
+    - title: Wissen
+      folderitems:
+        - title: Übersicht
+          url: /uebersicht-wissen_landing.html
+        - title: Projektion
+          url: /projektion_landing.html
+    - title: Projekte
+      folderitems:
+        - title: Übersicht
+          url: /projects_landing.html
+        - title: Youth Exchange 2018
+          url: /projects_youth-exchange-2018.html
+        - title: Youth Exchange 2019
+          url: /you-exc-19_landing.html

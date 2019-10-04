@@ -1,0 +1,33 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Wissen
+# lässt sich version entfernen? Wozu ist folders da?
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+
+  - title: Übersicht
+    output: web, pdf
+    folderitems:
+    - title: Übersicht
+      url: /uebersicht-wissen_landing.html
+      output: web, pdf
+    - title: Lizenzen
+      url: /uebersicht-wissen_lizenzen.html
+      output: web, pdf
